@@ -42,7 +42,7 @@ Replace `CustomClassViewModel` with the ViewModel Class you are going to impleme
                      Command="{Binding Source={StaticResource model}, Path=DoSomethingCommand}" />
    
    </StackPanel>
-</Window> 
+</UserControl> 
 ```
 
 #### ViewModel 
